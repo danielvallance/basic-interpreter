@@ -5,6 +5,7 @@ const (
 	EOF        = "EOF"
 	IDENTIFIER = "IDENTIFIER"
 	INTEGER    = "INTEGER"
+	STRING     = "STRING"
 	ASSIGN     = "="
 	PLUS       = "+"
 	MINUS      = "-"
