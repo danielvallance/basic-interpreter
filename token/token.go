@@ -31,6 +31,7 @@ const (
 	RETURN     = "RETURN"
 	EQ         = "=="
 	NOT_EQ     = "!="
+	COLON      = ":"
 )
 
 type TokenType string
